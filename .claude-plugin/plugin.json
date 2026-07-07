@@ -1,0 +1,5 @@
+{
+  "name": "cc-truffle-performance-plugin",
+  "description": "A Claude plugin for analyzing and optimizing Truffle performance.",
+  "version": "0.1.0"
+}

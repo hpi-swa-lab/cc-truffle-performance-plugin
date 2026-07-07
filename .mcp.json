@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "awfy": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "${CLAUDE_PLUGIN_ROOT}/mcp-awfy",
+        "mcp-awfy"
+      ]
+    }
+  }
+}
