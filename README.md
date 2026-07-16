@@ -2,6 +2,9 @@
 
 A Claude Code plugin for analyzing and optimizing GraalVM Truffle performance. This plugin provides specialized skills for profiling, tracing, and diagnosing performance issues in Truffle language implementations.
 
+Thesis: [Enhancing AI Coding Agents for TruffleDSL
+Performance Optimization](https://antonykamp.de/masters-thesis.pdf)
+
 ## Features
 
 This plugin includes expert-level skills for:
